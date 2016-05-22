@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sun, 22 May 2016 11:44:20 +0200
+Source: tvheadend
+Binary: tvheadend tvheadend-dbg
+Architecture: armhf
+Version: 4.1-2052~g6b9dcab
+Distribution: unstable
+Urgency: low
+Maintainer: Adam Sutton <aps@tvheadend.org>
+Changed-By: Andreas Öman <andreas@tvheadend.org>
+Description:
+ tvheadend  - Tvheadend
+ tvheadend-dbg - Debug symbols for Tvheadend
+Changes:
+ tvheadend (4.1-2052~g6b9dcab) unstable; urgency=low
+ .
+   * The full changelog can be found at
+     https://tvheadend.org/projects/tvheadend/wiki/Releases
+Checksums-Sha1:
+ 70400d03f84470c20c4137271c770756ca84f79d 10049878 tvheadend_4.1-2052~g6b9dcab_armhf.deb
+ c2451300cc46ffb245d952198a12eba5d17d73bf 4974784 tvheadend-dbg_4.1-2052~g6b9dcab_armhf.deb
+Checksums-Sha256:
+ c8354bfceb6e8724bd60b10e35f3a216134223810654cd73ffb8c101ff79fd86 10049878 tvheadend_4.1-2052~g6b9dcab_armhf.deb
+ 42124fe8adda928ac2b563b7f55168c25b325b9333905cc22ae3d9108765ea69 4974784 tvheadend-dbg_4.1-2052~g6b9dcab_armhf.deb
+Files:
+ 24fef479e123525f145c2633ecd1906f 10049878 video extra tvheadend_4.1-2052~g6b9dcab_armhf.deb
+ 30a8ef588b17d8bf715c1c158789efdd 4974784 debug extra tvheadend-dbg_4.1-2052~g6b9dcab_armhf.deb
