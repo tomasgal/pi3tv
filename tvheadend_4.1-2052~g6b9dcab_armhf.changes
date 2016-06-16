@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Sun, 22 May 2016 11:44:20 +0200
+Date: Thu, 16 Jun 2016 16:00:27 +0200
 Source: tvheadend
 Binary: tvheadend tvheadend-dbg
 Architecture: armhf
@@ -17,11 +17,11 @@ Changes:
    * The full changelog can be found at
      https://tvheadend.org/projects/tvheadend/wiki/Releases
 Checksums-Sha1:
- 70400d03f84470c20c4137271c770756ca84f79d 10049878 tvheadend_4.1-2052~g6b9dcab_armhf.deb
- c2451300cc46ffb245d952198a12eba5d17d73bf 4974784 tvheadend-dbg_4.1-2052~g6b9dcab_armhf.deb
+ 88efabaaf9e9530fe5c41145192f2c8b0b3d78ad 10054068 tvheadend_4.1-2052~g6b9dcab_armhf.deb
+ 3b7c95ac9f5e663421a4f56a3a8fc0b510f196c3 4999678 tvheadend-dbg_4.1-2052~g6b9dcab_armhf.deb
 Checksums-Sha256:
- c8354bfceb6e8724bd60b10e35f3a216134223810654cd73ffb8c101ff79fd86 10049878 tvheadend_4.1-2052~g6b9dcab_armhf.deb
- 42124fe8adda928ac2b563b7f55168c25b325b9333905cc22ae3d9108765ea69 4974784 tvheadend-dbg_4.1-2052~g6b9dcab_armhf.deb
+ 2da43c5bf65efa821667b7988587231bb15ddd37c9e42f3584a3ac7527a33323 10054068 tvheadend_4.1-2052~g6b9dcab_armhf.deb
+ 1ecb33a3b89168a5f0627869e0d49dfcfa31e8eefd386a369961ba10aec92dba 4999678 tvheadend-dbg_4.1-2052~g6b9dcab_armhf.deb
 Files:
- 24fef479e123525f145c2633ecd1906f 10049878 video extra tvheadend_4.1-2052~g6b9dcab_armhf.deb
- 30a8ef588b17d8bf715c1c158789efdd 4974784 debug extra tvheadend-dbg_4.1-2052~g6b9dcab_armhf.deb
+ 2bc6f70940866a6a2b9a15d50ea99fba 10054068 video extra tvheadend_4.1-2052~g6b9dcab_armhf.deb
+ e52dc6248af28e56f4c8eedc22a6478d 4999678 debug extra tvheadend-dbg_4.1-2052~g6b9dcab_armhf.deb
